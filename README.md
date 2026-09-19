@@ -4,8 +4,8 @@ I'm RayVen, a student at Brigham Young University-Idaho interested in software d
 
 ## About Me
 
-- I'm currently learning about Software development
-- My goals are to graduate with my bacheleors.
+- I'm currently learning about Software development through coursework and personal projects.
+- My goals are to graduate with my bacheleors degree in software development, and to gain real world expeirence.
 
 ## Technologies and Tools
 
