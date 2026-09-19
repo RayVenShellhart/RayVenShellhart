@@ -25,10 +25,12 @@ https://github.com/RayVenShellhart/CSE325-Team4-GroupProject
 Rpg
 https://github.com/RayVenShellhart/RPG
 
-## Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayVenShellhart&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RayVenShellhart&layout=compact&theme=radical)
-![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/RayVenShellhart/output/github-contribution-grid-snake.svg)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/RayVenShellhart/RayVenShellhart/output/github-contribution-grid-snake.svg)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
