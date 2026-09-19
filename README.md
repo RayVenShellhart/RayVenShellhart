@@ -27,10 +27,8 @@ https://github.com/RayVenShellhart/RPG
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayVenShellhart&show_icons=true&theme=radical)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RayVenShellhart&layout=compact&langs_count=8&hide_border=true)](https://github.com/RayVenShellhart)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RayVenShellhart&layout=compact&theme=radical)
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/RayVenShellhart/RayVenShellhart/output/github-contribution-grid-snake.svg)
+[![GitHub Contributions](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=RayVenShellhart)](https://github.com/RayVenShellhart)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
